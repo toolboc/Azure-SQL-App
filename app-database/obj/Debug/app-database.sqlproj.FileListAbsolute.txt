@@ -1,0 +1,9 @@
+/workspaces/Azure-SQL-App/app-database/bin/Debug/app-database.dacpac
+/workspaces/Azure-SQL-App/app-database/bin/Debug/app-database.dll
+/workspaces/Azure-SQL-App/app-database/bin/Debug/app-database.pdb
+/workspaces/Azure-SQL-App/app-database/obj/Debug/Model.xml
+/workspaces/Azure-SQL-App/app-database/obj/Debug/refactor.xml
+/workspaces/Azure-SQL-App/app-database/obj/Debug/postdeploy.sql
+/workspaces/Azure-SQL-App/app-database/obj/Debug/predeploy.sql
+/workspaces/Azure-SQL-App/app-database/obj/Debug/app-database.dll
+/workspaces/Azure-SQL-App/app-database/obj/Debug/app-database.pdb

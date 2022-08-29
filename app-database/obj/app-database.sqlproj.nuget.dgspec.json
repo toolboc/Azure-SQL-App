@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "restore": {
+    "/workspaces/Azure-SQL-App/app-database/app-database.sqlproj": {}
+  },
+  "projects": {
+    "/workspaces/Azure-SQL-App/app-database/app-database.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/workspaces/Azure-SQL-App/app-database/app-database.sqlproj",
+        "projectName": "app-database",
+        "projectPath": "/workspaces/Azure-SQL-App/app-database/app-database.sqlproj",
+        "packagesPath": "/var/nuget",
+        "outputPath": "/workspaces/Azure-SQL-App/app-database/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
